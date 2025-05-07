@@ -1,4 +1,4 @@
-## print("Olá! eu sou André Garcia")
+## print("Olá! Eu sou André Garcia")
 
 - 🌱 Estudante de Ciência da Computação na Universidade de Fortaleza | Unifor
 
