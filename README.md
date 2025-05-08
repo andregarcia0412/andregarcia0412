@@ -1,6 +1,6 @@
 ## print("Olá! Eu sou André Garcia")
 
-- 🌱 Estudante de Ciência da Computação na Universidade de Fortaleza | Unifor
+- 🌱 Estudante do primeiro semestre de Ciência da Computação na Universidade de Fortaleza | Unifor
 
 <div>
 <picture>
