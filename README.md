@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=andregarcia0412&show_icons=true&theme=tokyonight" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight)](https://github.com/andregarcia0412/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andregarcia0412&layout=donut&theme=tokyonight)](https://github.com/andregarcia0412/github-readme-stats)
 </div>
 
 <div style="display: inline_block"><br>
