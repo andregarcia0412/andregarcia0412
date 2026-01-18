@@ -1,21 +1,9 @@
 ## print("Olá! Eu sou André Garcia")
 
-- 🌱 Estudante do segundo semestre de Ciência da Computação na Universidade de Fortaleza | Unifor
-
-<div>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=andregarcia0412&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: light)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=andregarcia0412&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=andregarcia0412&show_icons=true&theme=tokyonight" />
-</picture>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andregarcia0412&layout=donut&theme=tokyonight)](https://github.com/andregarcia0412/github-readme-stats)
+- 🌱 Estudante do terceiro semestre de Ciência da Computação na Universidade de Fortaleza | Unifor
+<div> 
+  <img src="https://cheesits456-readme-stats.vercel.app/api?username=andregarcia0412&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark"/>
+  <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=andregarcia0412&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="andregarcia0412's Top Languages" align="right" width="295"/>
 </div>
 
 <div style="display: inline_block"><br>
