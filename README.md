@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nest,react,postgres,mysql,python,pytorch,cpp,java,spring)](https://skillicons.dev)
 
 ## Environments I work with
-[![My Environments](https://skillicons.dev/icons?i=github,arch,mint,npm,docker)](https://skillicons.dev)
+[![My Environments](https://skillicons.dev/icons?i=github,gitlab,arch,mint,npm,docker)](https://skillicons.dev)
 
 ##
 
